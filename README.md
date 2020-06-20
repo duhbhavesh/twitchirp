@@ -1,6 +1,6 @@
 # TwitChirp | Twitter Clone - A basic tweeting PWA
 
-## ![TwitChirp](https://lh5.googleusercontent.com/-KZalK8rAaFDGXUyey_bWZq537EnTE-8_m4oTQ7aj80g4kfsaKDQSfTqqb7DmnSGyoLXPYwSvB7FInVHEj4a=w2940-h5226-rw)
+## ![TwitChirp](https://lh5.googleusercontent.com/ltzIdEgneu2SNh2GNc5aKicu9prlIVvo0Ju0GNXHa21ez3AVfojalka2Bg343SM3RmNo3RGwuBBWoltigp2t=w1366-h625-rw)
 
 TwitChirp is a web application built using React, Redux, NodeJS, ExpressJS, RESTFUL Routes, with a few more frameworks used as the application is developed. 
 This application is a clone of Twitter, Twitter is an American microblogging and social networking service on which users post and interact with messages known as "tweets". Registered users can post, like, and retweet tweets, but unregistered users can only read them.
